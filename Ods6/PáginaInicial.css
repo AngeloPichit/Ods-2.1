@@ -87,10 +87,17 @@ h1{
     text-align: right;
     margin-top: 700px;
     width: 1250px;
-    height: 500px;
+    height: 710px;
     background-color: rgb(222, 241, 226);
-    overflow-y:auto;
     right: 5px;
+}
+
+.Texto2Brasil{
+    position: absolute;
+    margin-top: 220px;
+    text-align: center;
+    font-size: 30px;
+    
 }
 
 /*-------Links--------*/
@@ -183,6 +190,63 @@ a{
 a:visited{
 
 }
+
+/*-----Rodapé------*/
+
+.Rodapé{
+    position: absolute;
+    width: 100%;
+    height: 235px;
+    background-color: #1A0B31;
+    margin-top: 120%;
+    color: white;
+    
+}
+
+.TextoRodapé{
+    position: absolute;
+    margin-top: 20px;
+    right: 950px;
+}
+
+.LinksRodapé{
+    position: absolute;
+    height: 100px;
+    margin-top: 90px;
+    right: 1120px;
+    font-size: 20px;
+}
+
+.GithubLink{
+    position: absolute;
+    height: 100px;
+    margin-top: 20px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.Github{
+    position: absolute;
+    width: 200px;
+    right: -240px;
+    margin-top: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+
+ .ImgGithub{
+    position: absolute;
+    margin-top:
+
+ }
+
+
+
+
+
+
+
 
 
 
