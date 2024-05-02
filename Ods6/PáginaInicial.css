@@ -1,0 +1,190 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+   background-color: 60efff;
+}
+
+.Home{
+    position: absolute;
+    left: 120px;
+    padding: 120px;
+}
+
+.Menu{
+    background-color: 00ff87;
+    width: 100%;
+    height: 175px;
+    
+}
+
+.ImagemLogo{
+    position: absolute;
+    top: 8px;
+    left: 40px;
+    
+    
+}
+
+.TextoPrincipal{
+    
+}
+
+h1{
+    position: absolute;
+    text-align: left;
+    padding: 120px;
+    text-decoration: underline;
+    text-decoration-color: yellowgreen;
+    font-size: 50px;
+    text-align: ;
+    font-family: fantasy;
+    color: 
+}
+
+.Texto{
+    position: absolute;
+    text-align: center;
+    font-size: 21px;
+    font-family: ;
+    background-color: white;
+    width: 500px;
+    height: 200px;
+    right: 2%;
+    padding: 70px;
+    margin-top: 40px;
+    overflow-y: auto;
+    
+    
+}
+
+.TextoPirncipal2{
+    position: absolute;
+    text-align: right;
+    margin-top: 520px;
+    width: 450px;
+    height: 150px;
+    z-index: 100;
+    align-items: center;
+    background-color: greenyellow;
+   
+   
+
+}
+
+.Historia{
+    position: absolute;
+    font-size: 50px;
+    font-family: fantasy;
+    left: 120px;
+    margin-top: 50px;
+}
+
+.Texto2{
+    position: absolute;
+    text-align: right;
+    margin-top: 700px;
+    width: 1250px;
+    height: 500px;
+    background-color: rgb(222, 241, 226);
+    overflow-y:auto;
+    right: 5px;
+}
+
+/*-------Links--------*/
+
+.Links{
+    text-align: center;
+    padding: 140px;
+}
+
+.Sobre{
+    position: absolute;
+    right: 100px;
+    top: 120px;
+    font-size: 30px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none;
+   
+}
+
+.Sobre:hover{
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    
+}
+
+.OqueÉ{
+    position: absolute;
+    left: 90px;
+
+}
+
+.ObejtivosLink{
+    width: 650px;
+    position: absolute;
+    left: 450px;
+    top: 120px;
+    font-size: 30px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none;
+
+}
+
+.ObejtivosLink:hover{
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+
+.OqueÉ{
+    position: absolute;
+    right: 640px;
+    top: 120px;
+    font-size: 30px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+.OqueÉ:hover{
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: blue;
+
+}
+
+.HomeIcone{
+    position: absolute;
+    
+}
+
+
+
+
+
+
+
+
+a{
+    text-decoration: none;
+    color: white;
+   
+}
+
+a:visited{
+
+}
+
+
+
+
+
